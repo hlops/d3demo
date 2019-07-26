@@ -87,3 +87,4 @@ links.push(new Link('//jsfiddle.net/hlops/87skyf1t/23/embedded/result,js/', 'Ð¦Ð
 links.push(new Link('//jsfiddle.net/hlops/87skyf1t/23/embedded/result,js/', 'Radar plot', 2));
 
 links.push(new Link('//jsfiddle.net/hlops/tr0xhen6/3/embedded/result,js,html/', 'New York - London', 3));
+
